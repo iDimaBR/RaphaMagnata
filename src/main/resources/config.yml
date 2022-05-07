@@ -1,0 +1,28 @@
+MagnataTag: "&2[Magnata]&f"
+RichTag: "&6[Rico]&f"
+NumberOfTops: 5
+checkMagnata: 10
+MessagesTitle: true
+MessagesChat: true
+
+Messages:
+  MagnataEnter: "&2O Magnata &f%player% &2entrou!"
+  MagnataQuit: "&2O Magnata &f%player% &2saiu!"
+  MagnataNew:
+    - ""
+    - "&2O jogador &f%player% &2é o novo MAGNATA com &f%money%&2!"
+    - ""
+  TitleMagnataNew: "&2NOVO MAGNATA"
+  SubTitleMagnataNew: "&2O Jogador &f%player% &2é o novo MAGNATA com &f%money%&2!"
+  Magnata:
+    - ""
+    - "&eMagnata: &e%player%"
+    - ""
+
+Sounds:
+  Quit: "ENDERDRAGON_GROWL"
+  Enter: "ENDERDRAGON_GROWL"
+  New: "ENDERDRAGON_GROWL"
+
+magnata: "Nenhum"
+richs:
