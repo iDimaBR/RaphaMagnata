@@ -2,6 +2,6 @@ name: RaphaMagnata
 version: '${project.version}'
 main: com.github.idimabr.raphamagnata.RaphaMagnata
 authors: [ iDimaBR, Yuhtin ]
-depend: [Vault]
+depend: [Vault, nChat]
 commands:
   magnata:
